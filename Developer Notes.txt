@@ -1,4 +1,0 @@
-No idea how to use github so uploaded a zip file. 
-Needs JUnit testing, but is more or less fully functional. 
-Could not get maven to work though. 
-Packaging and installing was fine, but everything else didn't work.
