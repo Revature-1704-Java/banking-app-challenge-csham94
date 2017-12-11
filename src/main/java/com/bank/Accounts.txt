@@ -1,0 +1,5 @@
+Don Johnson,899.99,3.45
+Meriwether Maxwell,899.99,2.83
+Rick Dickson,1900.99,3
+John Doe,23,1
+Jane Doe,7800,.9
